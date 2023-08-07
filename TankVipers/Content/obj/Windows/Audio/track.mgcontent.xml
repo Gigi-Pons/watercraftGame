@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343/TankVipers/Content/Audio/track.mp3</SourceFile>
+  <SourceTime>2023-07-11T22:40:44.9976634-05:00</SourceTime>
+  <DestFile>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343/TankVipers/Content/bin/Windows/Audio/track.xnb</DestFile>
+  <DestTime>2023-07-27T16:46:12.5731708-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343/TankVipers/Content/bin/Windows/Audio/track.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Arial25.spritefont</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Arial50.spritefont</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/bonus.wav</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/bubbleTap.wav</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/explosion.mp3</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/gameOver.mp3</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/luckyLeafSound.wav</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/points.mp3</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/shotDead.mp3</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/skullballSound.mp3</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/track.mp3</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/Audio/uglyFishSound.wav</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/background.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/bullet25.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/bullet50.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/closingScene.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/crystal50.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/longNoseFish.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/luckyLeaf50.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/octopus.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/openingScene.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/skullBackground.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/skullball.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/tank.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/tank2.png</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/threerings.jpg</File>
+    <File>C:/Users/Greci/OneDrive/Desktop/GameProgramming/StillGAME1343/GAME1343_/TankVipers/Content/uglyFish.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

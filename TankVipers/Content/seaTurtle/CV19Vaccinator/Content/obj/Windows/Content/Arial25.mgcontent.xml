@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Greci/OneDrive/Desktop/GameProgramming/TurtleInSea/CV19Vaccinator/Content/Arial25.spritefont</SourceFile>
+  <SourceTime>2023-07-10T14:06:01.4770344-05:00</SourceTime>
+  <DestFile>C:/Users/Greci/OneDrive/Desktop/GameProgramming/TurtleInSea/CV19Vaccinator/Content/bin/Windows/Content/Arial25.xnb</DestFile>
+  <DestTime>2023-08-04T00:01:04.1826857-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
