@@ -6,6 +6,8 @@ There are three different types of fish, a long nose fish, an octopus, and a gre
 These fish have different values and functions assigned to them, if not killed, those values will be subtracted from the total score, if killed, 
 the values will be added to the score.
 
+Find a link to the video [here](https://youtu.be/KLVkrzS69V0)
+
 ## Octopus
 The octopus has a value of 30 points assigned to it.  Also, if the player (watercraft) is touched by one of these, it will grow twice in size for the next 3 seconds and will be a greater target for other fish.
 
